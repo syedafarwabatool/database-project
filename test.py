@@ -16,7 +16,7 @@ def check_connection():
         #     "Trusted_Connection=yes;"
         #     "TrustServerCertificate=yes;"  # Added to trust the server certificate
         # )
-        connStr=('Driver={ODBC Driver 18 for SQL Server};Server=tcp:patientdb123.database.windows.net,1433;Database=Pinkeyeflu;Uid=sqladmin;Pwd=Farwa123;Encrypt=yes;TrustServerCertificate=no;Connection Timeout=30;')
+        connStr=('Driver={ODBC Driver 18 for SQL Server};Server=tcp:patientdb123.database.windows.net,1433;Database=Pinkeyeflu;Uid=sqladmin;Pwd=********;Encrypt=yes;TrustServerCertificate=no;Connection Timeout=30;')
         connection = odbc.connect(connStr)
         print("Connected to SQL Server Database")
         connection.close()
