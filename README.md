@@ -1,1 +1,2 @@
 # database-project
+Pink eye, also known as conjunctivitis, is a common eye infection characterized by inflammation of the conjunctiva, the thin, transparent membrane that covers the white part of the eye and lines the inner surface of the eyelids. It can be caused by bacteria, viruses, allergens, or irritants. Pink eye can spread easily and is often accompanied by symptoms such as redness, itching, tearing, and discharge.
